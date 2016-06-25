@@ -1,0 +1,40 @@
+.navbar-brand h1 {
+  color: ##4F4F4FFF;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+
+.navbar-nav {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#nav-list a {
+  padding: 0px;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+#nav-list hr {
+  margin: 0px;
+}
+
+.page-header {
+  border-bottom: 0px;
+  margin-top: 20px;
+}
+
+#chicken {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #B2BEB5;
+}
